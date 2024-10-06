@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480216256074",
+    "project_id": "fir-todo-list-5d1af",
+    "storage_bucket": "fir-todo-list-5d1af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480216256074:android:0b23dfd8e0c5bf1646a0b3",
+        "android_client_info": {
+          "package_name": "com.getcapacitor.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKAQlR0e-tC2P9ab6zJBbvio2TTZr8ork"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
